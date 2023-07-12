@@ -1,6 +1,6 @@
 # PDF Translator
 
-Este proyecto es un script en Python que permite traducir el texto de un archivo PDF de portugués a español utilizando OCR (Reconocimiento Óptico de Caracteres) y la API de traducción de Google.
+Este proyecto es un script en Python que permite traducir el texto de un archivo PDF (ESCANEADO) de portugués a español utilizando OCR (Reconocimiento Óptico de Caracteres) y la API de traducción de Google.
 
 ## Requisitos
 
