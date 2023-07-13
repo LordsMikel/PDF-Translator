@@ -34,9 +34,9 @@ Además, asegúrate de tener el modelo de idioma adecuado para el OCR con Tesser
 cd pdf-translator
 
 3. Ejecuta el script y sigue las instrucciones en pantalla:
-
+´´´bash
 python traductor.py
-
+´´´
 4. Elige la página inicial y final del PDF que deseas traducir.
 
 5. Espera a que se realice el proceso de OCR y traducción.
